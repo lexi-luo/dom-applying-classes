@@ -21,13 +21,21 @@ div.blue {
   background-color: blue;
 }
 
+div.green {
+  background-color: green;
+}
+
+div.purple {
+  background-color: purple;
+}
+
 .invisible {
   display: none;
 }
 
 .visible {
   display: block;
-  border: 3px black dashed;
+  border: 3px black dotted;
   border-radius: 0;
   background-color: white;
 }
